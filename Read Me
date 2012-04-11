@@ -1,0 +1,10 @@
+About Sahaaya:
+"Sahaaya” is an application to sense the gestures of the person infront of the camera. This application gets live images from the webcam attached to the system, which are processed by the system to get co-ordinates of face of the person. The co-ordinates of face is taken as a reference point. When the co-ordinate points of reference point is compared with that in previous frame, the application detects motion. This application can prove to be a very successful accessibility option for people who cant speak and use their hands to demonstrate. Considering a case in which there is no attendant for such person, a simple gesture sensed by this application can raise an alarm which will call attention of the desired person. This application also provides a feature wherein a skype call/message will be made to the person who needs to be alarmed about the gestures made by the person in front of the camera. Another feature of this application is to move the cursor on the screen to a convey message. To explain this feature, let us assume a specially-abled person who moves mouse on the screen (by moving his head accordingly) to the different customised messages already present on the screen. This feature can also allow any person to control mouse movement using his head gestures. This application can run multiple instances on a single system with multiple webcams attached to it.
+
+Wiki:
+https://github.com/madanpiyush/Sahaaya/wiki
+
+Installation:
+-Install OpenCV library before running Sahaaya
+-nativelibs4java (http://code.google.com/p/nativelibs4java/wiki/OpenCV)
+
